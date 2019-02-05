@@ -62,4 +62,4 @@ displayResults();
 
 //Why isn't my 2nd table printing an updated balance?
 //why when i run the same purchase through the console does it not reduce the item by the same amount?
-//why is my total not summing correctly row 46
+//why is my total not summing correctly row 46? It's like it is deducting another id from the table.
